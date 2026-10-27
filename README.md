@@ -115,7 +115,8 @@ Em termos de aprendizagem, os principais temas são:
 programacao-funcional/
 ├── README.md
 ├── .gitignore
-├── exercicios/       # Exercícios de aula e experimentos
+├── dias de aula
+├── exerciciosExtras/       # Exercícios de aula e experimentos
 ├── trabalho-01/      # Estudos e implementação do Trabalho Prático 1
 └── trabalho-02/      # Estudos e implementação do Trabalho Prático 2
 ```
